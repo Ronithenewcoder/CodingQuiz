@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./assets/style2.css" />
     <title>Quiz</title>
 </head>
 <body>
-Testing to see if workflow working
-    <div id="questions-container" class="hide">
-        <div id="question">Question</div>
-        <div id="answer-buttons" class="btn-grid">
-            <button id="wrong" class="btn">Answer 1</button>
-            <button id="wrong" class="btn">Answer 2</button>
-            <button id="wrong" class="btn">Answer 3</button>
-            <button id="wrong" class="btn">Answer 4</button>
+    <div class="container" id="quiz-container">
+        <h1>JavaScript Quiz</h1>
+        <div class="question" id="question-container">
+          <h2 id="question-text"></h2>
+          <ul id="options-list"></ul>
         </div>
-    </div>
+        <div id="timer" class="timer">Time: 60</div>
+        <button id="start-button">Start Quiz</button>
+      </div>
 
 </body>
 <script src="./assets/script.js"></script>

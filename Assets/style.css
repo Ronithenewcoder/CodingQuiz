@@ -4,3 +4,6 @@ margin-top: 20%;
 line-height: 20px;
 }
 
+button {
+   text-decoration: none; 
+}
