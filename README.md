@@ -14,7 +14,7 @@ https://developer.mozilla.org/en-US/
 All links provided were used to assist me with this quiz.
 
 ## Picture 
-![Alt text](image.png)
+./
 
 ## Deployed application link
 https://ronithenewcoder.github.io/CodingQuiz/
