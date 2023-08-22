@@ -17,3 +17,4 @@ All links provided were used to assist me with this quiz.
 ![Alt text](image.png)
 
 ## Deployed application link
+https://ronithenewcoder.github.io/CodingQuiz/
