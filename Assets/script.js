@@ -75,7 +75,7 @@ function checkAnswer(selectedOption, correctAnswer) {
   if (selectedOption === correctAnswer) {
     score++;
   } else {
-    // Subtract time for incorrect answer
+  
     timeLimit -= 10;
   }
 

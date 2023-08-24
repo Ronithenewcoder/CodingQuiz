@@ -1,5 +1,5 @@
 # CodingQuiz
-This is a quiz to test knowledge on the coding language "CSS". My motivation to create this CSS quiz is to test/refresh developers or aspiring developers knoledge.
+This is a quiz to test knowledge on the coding language "CSS". My motivation to create this CSS quiz is to test/refresh developers or aspiring developers knowledge.
 
 ## User Story
 AS A coding boot camp student
@@ -14,7 +14,7 @@ https://developer.mozilla.org/en-US/
 All links provided were used to assist me with this quiz.
 
 ## Picture 
-./
+
 
 ## Deployed application link
 https://ronithenewcoder.github.io/CodingQuiz/
